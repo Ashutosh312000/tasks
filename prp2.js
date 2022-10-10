@@ -15,4 +15,4 @@ let multiply2=function(x){
     }
 }
 var multiplybyfour=multiply2(4);
-multiplybyfour(3); //output is 12
+multiplybyfour(3); //output  is 12

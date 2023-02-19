@@ -1,0 +1,205 @@
+#shopify-section-footer-classic-0{
+    width: calc(18% - 20px);
+}
+#shopify-section-footer-classic-1{
+    width: calc(18% - 20px);
+}
+#shopify-section-7abdd16a-6223-4059-a6bf-97c29d9fa970{
+    width: calc(18% - 20px);
+}
+#shopify-section-footer-classic-2{
+    width: calc(18% - 20px);
+}
+
+#trackorders{
+    list-style-type: none;
+    margin-right: 2%;
+    margin-top: -0.2%;
+}
+
+#trackorders a{
+    color: white;
+}
+
+#addtocart{
+   width: 17%;
+}
+
+.carticon{
+    position: relative;
+    top: 8px;
+    right: 5px;
+}
+
+.horizontal li{
+    display: inline;
+}
+
+#headernav > ul{
+    width: 100%;
+}
+
+.product-images{
+    width: 50%;
+}
+
+.perproductcls img{
+ width: 50%;
+}
+
+#productslist{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-around;
+}
+
+.st-swatches{
+    display: flex;
+}
+
+.st-swatches span{
+    width: 20%;
+    text-align: center;
+    margin: 2%;
+    display: flex;
+    background-color: #fff;
+    cursor: pointer;
+    justify-content: center;
+}
+
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .product-title span {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    display: inline-block;
+    text-transform: capitalize;
+    line-height: 1.6;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .st-add-to-cart .qty-atc {
+    display: flex;
+    padding-top: 3%;
+    justify-content: space-between;
+}
+
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .st-add-to-cart .qty-atc select.st-collection_qty {
+    font-family: BaiJamjuree-Regular!important;
+    background-color: #f3f3f3;
+}
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .st-add-to-cart .qty-atc select.st-collection_qty {
+    width: 48%;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    padding: 3% 2%;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .st-product-prices {
+    display: flex;
+    align-content: space-between;
+    width: 100%;
+    justify-content: space-between;
+}
+
+body.searchtap #searchModalContainer #searchModal #stMainContent #right #products-listing .st-product .product-inner .product-bottom .st-product-prices {
+    display: flex;
+    align-content: space-between;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.mainyehhai {
+    width: 25%;
+    padding: 3% 2%;
+    background: #f3f3f3;
+    border: unset;
+    border-radius: 5px;
+}
+
+.qty-atc{
+    display: flex;
+}
+
+.st-collection_qty123{
+    width: 40%;
+    padding: 3% 2%;
+    background: #f3f3f3;
+    border: unset;
+    border-radius: 5px;
+}
+
+.perproductcls{
+    width: 20%;
+}
+
+.perproductcls img {
+    width: 100%;
+}
+
+.st-product-prices{
+    display: flex;
+}
+
+.heart123{
+    position: relative;
+    top: 7%;
+}
+
+.addtocartbtn123{
+    background: #363636;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.cartchanges{
+    margin-left: 3%;
+}
+
+.cartchanges  {
+    padding-left: 34%;
+}
+
+#btntopmainsuit {
+    font-size: 15px;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 400;
+    line-height: 1.5;
+    border: 1px solid #363636;
+    border-radius: 3px;
+    padding: 5px 37px;
+    margin-left: 3%;
+    background: transparent;
+    margin-top: 2%;
+}
+
+#headingsuit{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 200%;
+
+}
+
+#categoryhead{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 100px;
+}
+
+#maincatogary{
+
+}

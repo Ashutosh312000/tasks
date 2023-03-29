@@ -1,0 +1,34 @@
+
+const Person = {
+
+    id: 1,
+
+    name: 'Ashutosh',
+
+    age: 21,
+
+    hobbies: 'movies',
+
+    address: {
+
+        street: 'lado-sarai',
+
+        state: 'New delhi',
+
+        country: 'India',
+
+    }
+
+};
+
+console.log(Person.hobbies);// you print "movies"
+
+console.log(Person.address.state);//you print "New delhi"
+
+
+
+const {age}=Person;
+const {address:{state}}=Person;
+
+console.log(age)//you print "21"
+console.log(state)// you print "New Delhi"

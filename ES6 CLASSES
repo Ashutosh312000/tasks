@@ -1,0 +1,43 @@
+
+class student {
+    constructor(firstname, lastname,roll_number,age) {
+
+        this.firstname = firstname;
+    
+        this.lastname = lastname;
+        
+        this.roll_number = roll_number;
+
+        this.age = age;
+    
+        
+    
+    }
+
+    printFullname = function () {
+        console.log(`${this.firstname} ` + `${this.lastname}`)
+    }
+
+    minorOrmajor=()=> {
+         if (this.age >= 18) {
+     
+             console.log("major");
+     
+         } else {
+             
+             console.log('minor');
+     
+         } 
+     
+     };
+}
+
+
+const student1 = new student('yash', 'prasad', 12, 27);
+
+const student2 = new student('ram', 'prasad', 14, 15);
+
+student1.printFullname();
+student1.minorOrmajor();
+student2.printFullname();
+student2.minorOrmajor();
